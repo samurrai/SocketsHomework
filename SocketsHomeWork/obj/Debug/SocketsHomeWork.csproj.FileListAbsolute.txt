@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\bin\Debug\SocketsHomeWork.exe.config
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\bin\Debug\SocketsHomeWork.exe
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\bin\Debug\SocketsHomeWork.pdb
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\MainWindow.g.cs
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\App.g.cs
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork_MarkupCompile.cache
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork_MarkupCompile.lref
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\MainWindow.baml
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.g.resources
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.Properties.Resources.resources
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.csproj.GenerateResource.cache
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.exe
+C:\Users\User\source\repos\SocketsHomeWork\SocketsHomeWork\obj\Debug\SocketsHomeWork.pdb
